@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
   profileText: {
     color: 'black',
     fontSize: 16,
-    alignSelf:'center',
+    alignSelf: 'center',
   },
   dashboardContent: {
     flex: 1,
@@ -179,9 +179,9 @@ const styles = StyleSheet.create({
     backgroundColor: 'blue',
     padding: 15,
     borderRadius: 15,
-    width: '80%', // Adjust width as needed
+    width: '40%', // Adjust width as needed
     alignItems: 'center',
-    marginBottom: 20, // Margin from the bottom
+    marginBottom: 30, // Margin from the bottom
   },
   startRideButtonText: {
     color: 'white',
