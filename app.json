@@ -1,4 +1,5 @@
 {
+{
   "expo": {
     "name": "DTC",
     "slug": "DTC",
@@ -12,6 +13,20 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "API_KEY_HERE......................"
+        }
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "API_KEY_HERE........................"
+      }
+    }
+  }
+}
     "ios": {
       "supportsTablet": true
     },
